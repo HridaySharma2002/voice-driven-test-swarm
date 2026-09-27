@@ -39,3 +39,7 @@ target_app/target/
 # OS
 .DS_Store
 Thumbs.db
+
+# Demo video (too large for GitHub)
+ibm_proof.mp4
+*.mp4
