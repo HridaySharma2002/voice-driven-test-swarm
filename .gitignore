@@ -1,0 +1,41 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+*.env
+.env.*
+
+# Audio output (generated at runtime)
+orchestrator/agents/bob_summary.mp3
+orchestrator/agents/temp_command.wav
+
+# Maven build output
+target_app/target/
+
+# Java
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
